@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=wasiabdullah.wasiabdullah&left_text=My%20Page%20Visitors)
