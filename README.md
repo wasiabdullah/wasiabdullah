@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=wasiabdullah.wasiabdullah&left_text=My%20Page%20Visitors)
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.wasiabdullah.wasiabdullah)
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.wasiabdullah.wasiabdullah&labelColor=f00)
+
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.wasiabdullah.wasiabdullah&type=uv&labelColor=A00&label=UV&color=F66&style=social)
